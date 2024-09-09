@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://miyfao.github.io/pVw/sitemap.pVw.gz
